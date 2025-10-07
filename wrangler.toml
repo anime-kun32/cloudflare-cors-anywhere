@@ -1,4 +1,4 @@
-name = "cloudflare-cors-anywhere"
+name = "proxy-link"
 main = "index.js"
 compatibility_date = "2023-04-17"
 account_id = "bb61dfbab0a8ae9f82e2b22ab4c7e604"
